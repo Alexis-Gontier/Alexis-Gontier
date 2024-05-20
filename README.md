@@ -8,7 +8,7 @@ Etudiant en développent web passionné de numérique et surtout de projet front
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode,figma)
 
 ## Contact me 
-LinkedIn: [Alexis-Gontier](https://www.linkedin.com/in/alexis-gontier/).
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexis-gontier/)
 
 
 <!--
