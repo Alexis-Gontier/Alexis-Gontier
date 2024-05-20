@@ -1,10 +1,11 @@
 # Hi, I'm Alexis ! 👋
 
-**Je suis en recherche d'une alternance**
+***Je suis en recherche d'une alternance***
 
 Etudiant en développent web passionné de numérique et surtout de projet front-end.
 
 ## Stack <3
+https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode,figma)
 
 <!--
 
