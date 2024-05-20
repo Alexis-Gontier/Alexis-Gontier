@@ -4,8 +4,11 @@
 
 Etudiant en développent web passionné de numérique et surtout de projet front-end.
 
-## Stack <3
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode,figma)](https://skillicons.dev)
+## Stack Tech <3
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode,figma)
+
+## Contact me 
+LinkedIn: [Alexis-Gontier](https://www.linkedin.com/in/alexis-gontier/).
 
 
 <!--
