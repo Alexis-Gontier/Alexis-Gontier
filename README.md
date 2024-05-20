@@ -1,5 +1,11 @@
-### Hi, I'm Alexis ! 👋
+# Hi, I'm Alexis ! 👋
+
 **Je suis en recherche d'une alternance**
+
+Etudiant en développent web passionné de numérique et surtout de projet front-end.
+
+## Stack <3
+
 <!--
 
 - 🔭 I’m currently working on ...
