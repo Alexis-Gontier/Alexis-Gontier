@@ -1,7 +1,5 @@
 # Hi, I'm Alexis ! 👋
 
-***Je suis en recherche d'une alternance***
-
 Etudiant en développent web passionné de numérique et surtout de projet front-end.
 
 ## Stack Tech <3
