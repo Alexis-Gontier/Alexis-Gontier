@@ -3,7 +3,7 @@
 Etudiant en développent web passionné de numérique et surtout de projet front-end.
 
 ## Stack Tech <3
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
 
 ## Contact 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexis-gontier/)
