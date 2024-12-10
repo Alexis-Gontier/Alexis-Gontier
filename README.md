@@ -1,8 +1,8 @@
 # Hi, I'm Alexis ! 👋
 
-- 🔭 I’m currently working at [Plume]([https://www.plume.fr/])
+- 🔭 I’m currently working at [Plume](https://www.plume.fr/)
 
-- 🌱 **I am a student at Hetic**
+- 🌱 I am a student at Hetic
 
 ## Stack Tech <3
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
