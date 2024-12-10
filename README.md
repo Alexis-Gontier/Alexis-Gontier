@@ -1,6 +1,8 @@
 # Hi, I'm Alexis ! 👋
 
-Etudiant en développent web passionné de numérique et surtout de projet front-end.
+- 🔭 I’m currently working at [Plume]([https://www.plume.fr/])
+
+- 🌱 **I am a student at Hetic**
 
 ## Stack Tech <3
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
