@@ -1,18 +1,15 @@
 # Hi, I'm Alexis ! 👋
 
+## 💫 About Me: <br>
 - 🔭 I’m currently working at [Plume](https://www.plume.fr/)
-
 - 🌱 I am a student at Hetic
 
-## Stack Tech <3
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
-
-## Contact 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexis-gontier/)
+## Stack Tech
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
 
 <!--
-
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
