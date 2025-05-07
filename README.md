@@ -36,7 +36,9 @@
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 
-
+## Contact
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexis-gontier/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](alexis.gontier03@gmail.com)
 
 <!--
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,next,tailwind,sass,firebase,mongodb,mysql,postgresql,git,vscode,figma)
@@ -49,3 +51,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://github.com/inttter/md-badges -->
